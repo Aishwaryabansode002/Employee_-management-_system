@@ -1,5 +1,10 @@
 # Employee_-management-_system
+
 # Employee Management System with History Tracking
+
+## 📸 Project Output
+
+![Employee Management Output](Screenshot%20(6).png)
 
 A production-ready, full-stack MERN application for managing employee records with comprehensive history tracking and audit trails.
 
